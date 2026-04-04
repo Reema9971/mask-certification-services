@@ -19,8 +19,7 @@ export default function ContactPage() {
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            className="text-center mb-16"
-          >
+            className="text-center mb-16">
             <h1 className="text-5xl font-black text-primary tracking-tighter mb-4">Get in Touch</h1>
             <p className="text-xl text-on-surface-variant max-w-2xl mx-auto">
               Have questions about certifications or technical training? Our experts are here to help your organization achieve excellence.
@@ -46,6 +45,8 @@ export default function ContactPage() {
                       <p className="text-xs font-bold text-secondary uppercase tracking-widest mb-1">Head Office</p>
                       <p className="text-lg text-on-surface font-medium leading-relaxed">
                         H-3624GF
+                        <br/>
+                        Faridabad, Haryana
                       </p>
                     </div>
                   </div>

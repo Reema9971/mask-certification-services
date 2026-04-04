@@ -47,7 +47,8 @@ export default function Footer() {
                 <div>
                   <p className="text-xs font-bold text-secondary uppercase tracking-widest mb-1">Head Office</p>
                   <p className="text-sm text-white/80 leading-relaxed">
-                    H-3624GF
+                    H-3624GF <br/>
+                    Faridabad, Haryana
                   </p>
                 </div>
               </div>
