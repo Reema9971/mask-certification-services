@@ -45,9 +45,7 @@ export default function ContactPage() {
                     <div>
                       <p className="text-xs font-bold text-secondary uppercase tracking-widest mb-1">Head Office</p>
                       <p className="text-lg text-on-surface font-medium leading-relaxed">
-                        H.NO.3624GF, Pocket-2, Sector-3,<br />
-                        Ballabhgarh, Faridabad-121004,<br />
-                        Haryana, India
+                        H-3624GF
                       </p>
                     </div>
                   </div>

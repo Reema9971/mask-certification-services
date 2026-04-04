@@ -34,7 +34,6 @@ export default function Footer() {
               </p>
             </div>
           </div>
-
           {/* Contact Details Section - More Prominent */}
           <div className="lg:col-span-4">
             <h4 className="text-sm font-bold uppercase tracking-[0.2em] text-secondary mb-8 flex items-center gap-2">
@@ -48,9 +47,7 @@ export default function Footer() {
                 <div>
                   <p className="text-xs font-bold text-secondary uppercase tracking-widest mb-1">Head Office</p>
                   <p className="text-sm text-white/80 leading-relaxed">
-                    H.NO.3624GF, Pocket-2, Sector-3,<br />
-                    Ballabhgarh, Faridabad-121004,<br />
-                    Haryana, India
+                    H-3624GF
                   </p>
                 </div>
               </div>
