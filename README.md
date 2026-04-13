@@ -1,20 +1,38 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ISO Certification Business Website
 
-# Run and deploy your AI Studio app
+This is a professional business website developed for ISO certification and consultancy services.
 
-This contains everything you need to run your app locally.
+## 🔹 Features
+- Modern and clean UI
+- Fully responsive design
+- WhatsApp direct contact integration
+- Click-to-call functionality
+- Service-based layout
 
-View your app in AI Studio: https://ai.studio/apps/2e48a6b2-5a48-4519-bc9b-938240715339
+## 🔹 Sections
+- Home
+- About
+- Services
+- Contact
 
-## Run Locally
+## 🔹 Technologies Used
+- React
+- TypeScript
+- Tailwind CSS
 
-**Prerequisites:**  Node.js
+## 🔹 Live Demo
+👉 https://mask-certification-services.vercel.app/
 
+## 🔹 Purpose
+This project is built as a real-world business website focused on lead generation and client communication.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🔹 Key Functionality
+- Users can directly contact via WhatsApp
+- Easy navigation between sections
+- Fast and optimized UI
+
+## 🔹 Note
+This is a frontend-only project. No backend or database is included.
+
+## 🔹 Developed By
+Reema
