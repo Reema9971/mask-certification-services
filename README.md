@@ -1,38 +1,28 @@
-# ISO Certification Business Website
+# MASK System Certification & Services
 
-This is a professional business website developed for ISO certification and consultancy services.
+A professional frontend website for MASK System Certification & Services.
 
-## 🔹 Features
+## Features
 - Modern and clean UI
-- Fully responsive design
-- WhatsApp direct contact integration
+- Home, About, Services, and Contact sections
+- WhatsApp direct contact button
 - Click-to-call functionality
-- Service-based layout
+- Responsive layout
 
-## 🔹 Sections
-- Home
-- About
-- Services
-- Contact
-
-## 🔹 Technologies Used
+## Technologies Used
 - React
 - TypeScript
+- Vite
 - Tailwind CSS
 
-## 🔹 Live Demo
-👉 https://mask-certification-services.vercel.app/
+## Live Demo
+https://mask-certification-services.vercel.app/
 
-## 🔹 Purpose
-This project is built as a real-world business website focused on lead generation and client communication.
+## Purpose
+This project is designed to present ISO certification and consultancy services in a clear and professional way, with a focus on user contact and lead generation.
 
-## 🔹 Key Functionality
-- Users can directly contact via WhatsApp
-- Easy navigation between sections
-- Fast and optimized UI
+## Note
+This is a frontend-only project. No backend, database, or admin panel is included.
 
-## 🔹 Note
-This is a frontend-only project. No backend or database is included.
-
-## 🔹 Developed By
+## Developed By
 Reema
